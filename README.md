@@ -1,5 +1,25 @@
 # 2021-f2e-week1
 
+## 自行車道地圖資訊整合網
+- 採用設計: https://2021.thef2e.com/users/6296432819610583770?week=1&type=1
+## 系統說明
+- 專案運行方式是使用: 
+```sh
+yarn serve
+```
+## 資料夾說明
+- assets: 圖片
+- components: 元件
+- plugins: 裡面有 vuetify.js
+- router: 配置路由
+- store: vuex
+- views: 頁面
+
+## 使用技術
+- Vue Cli
+- vuetify
+- Axios
+
 ## Project setup
 ```
 yarn install
